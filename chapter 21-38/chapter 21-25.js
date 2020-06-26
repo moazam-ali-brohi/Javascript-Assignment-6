@@ -1,5 +1,5 @@
 
-        //------chapter 21-25
+        //-------chapter 21-25
         
         ///task-1
         var f=prompt("Enter your first name")

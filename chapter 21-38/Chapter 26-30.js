@@ -7,7 +7,7 @@
         document.write("number: "+num+"<br> Round of value: "+rNum
         +"<br> floor value: "+fNum+"<br> ceil value: "+cNum)
 
-        //--------
+        //---------
 
 
         //Task-2
